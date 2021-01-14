@@ -1,5 +1,4 @@
-# WallStreet_Project
-Project 31_03_2020
+# WallStreet Analysis with VBA
 
 This project was aimed to design a code for analyzing real stock market data from excel files. This project is divided by three modules: 
 
